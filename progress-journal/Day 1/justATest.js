@@ -1,0 +1,1 @@
+const dayOne = 1;
